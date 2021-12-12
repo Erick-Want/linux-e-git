@@ -1,0 +1,5 @@
+Foi muito bom relembrar conceitos importantes, o mais interessante dessa aula é a informação de que o Linux é um Kernel e não um sistema operacional...
+Por mais que eu já sabia é algo que sempre explode a cabeça pois cresci ouvindo dizer que Linux era um sistema operacional!!
+E sobre a VM:
+	Windows Subsystem Linux > Virtual Machine
+Nada mais a declarar kkkkk
