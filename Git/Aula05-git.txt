@@ -1,0 +1,17 @@
+Essa foi a melhor aula para mim pois já utilizava o git mas de forma bem basica apenas para salvar meus codigos e baixa-los e nunca utilizei de maneira adequada as branches.
+Sempre utilizei tudo diretamente do github o que facilita bastante então foi otimo fazer tudo pelo terminal.
+Comando aprendidos / relembrados:
+git branch <nome_da_nova_branch> --> criando uma nova branch
+git checkout <nome_da_branch_para_acessar> --> trocando de branch
+
+git checkout <nome_do_commit_acessar> 611e255 --> acessando commits 
+
+git merge <nome_da_branch> juntando as branch
+
+No final dessa aula tivemos muitos problemas com a autenticidade do github e acabei aprendendo outros comandos:
+
+git remote -v
+
+git remote set-url --delete origin <url>
+
+git remote set-url --add origin <url>
