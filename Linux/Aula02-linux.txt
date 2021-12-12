@@ -1,0 +1,12 @@
+Nessa aula de comandos a maioria deles eu já estava familiarizado mas ainda assim é bom destacar.
+Principais comandos usados (por mim):
+cd - mudar de pasta
+ls - listar os arquivos
+mkdir - criar uma nova pasta
+touch - criar um novo arquivo
+nano - editor de texto
+mv, cp, rm e por ai vai...
+Vale ressaltar tambem o apt e sudo, são comandos muito importantes.
+apt -> gerenciador de pacotes
+sudo -> uma skin de root (super admin)
+
