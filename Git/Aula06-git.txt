@@ -1,0 +1,2 @@
+Aula final após autenticado o github na ultima aula, vimos na pratica e com a interface grafica tudo que foi feito no terminal.
+A parte mais importante para mim foi a solicitação do Pull Request (PR) que é algo muito utilizado no mercado de trabalho.
